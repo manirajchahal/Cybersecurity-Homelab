@@ -1,7 +1,5 @@
 # Cybersecurity-Homelab
 
-# Cybersecurity Homelab
-
 ## Description
 I designed and built a comprehensive cybersecurity homelab to simulate real-world network security scenarios in a closed, controlled environment. This project allowed me to gain hands-on experience in configuring and integrating multiple security technologies, including firewall configuration, SIEM integration, and network segmentation.
 
