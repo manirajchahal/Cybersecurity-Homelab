@@ -50,12 +50,10 @@ The repository is organized into several directories:
    - Ensure critical network segments are properly isolated.
 
 ## Usage
-- Use this homelab as a sandbox environment for testing cybersecurity tools and techniques.
-- Experiment with modifying configurations, adding new security measures, and simulating attack scenarios.
+- I used this homelab as a sandbox environment for testing cybersecurity tools and techniques.
+- Experimented with modifying configurations, adding new security measures, and simulating attack scenarios.
 - Refer to the documentation in the `docs/` folder for more detailed guides and troubleshooting tips.
 
-## Contributing
-Contributions, improvements, and suggestions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
